@@ -1,10 +1,4 @@
 # The-code
 Default code is 1234
 
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
+*This project is for my mom to school. It is a small project that use a code from a online escape game*
